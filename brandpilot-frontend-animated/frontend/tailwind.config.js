@@ -1,0 +1,1 @@
+export default { content:['./index.html','./src/**/*.{js,jsx}'], theme:{ extend:{ fontFamily:{ display:['"Bricolage Grotesque"','sans-serif'], body:['"Atkinson Hyperlegible"','system-ui','sans-serif'] } } }, plugins:[] }
